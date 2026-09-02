@@ -106,9 +106,9 @@
   {
     "id": "card-14",
     "index": 14,
-    "front": "さようなら",
+    "front": "ありがとう",
     "back": "thank you (arigatō)",
-    "raw": "さようなら - thank you (arigatō)",
+    "raw": "ありがとう - thank you (arigatō)",
     "hint": "conversation"
   },
   {
@@ -187,8 +187,8 @@
     "id": "card-24",
     "index": 24,
     "front": "会話",
-    "back": "to have a conversation (kaiwa)",
-    "raw": "会話 - to have a conversation (kaiwa)",
+    "back": "conversation (kaiwa); to converse is 会話する",
+    "raw": "会話 - conversation (kaiwa); to converse is 会話する",
     "hint": "conversation"
   },
   {
@@ -235,16 +235,16 @@
     "id": "card-30",
     "index": 30,
     "front": "していた",
-    "back": "someone said (shi te i ta)",
-    "raw": "していた - someone said (shi te i ta)",
+    "back": "was doing / had been doing (shite ita)",
+    "raw": "していた - was doing / had been doing (shite ita)",
     "hint": "conversation"
   },
   {
     "id": "card-31",
     "index": 31,
-    "front": "そおも",
-    "back": "so omo - i think (slang?)",
-    "raw": "そおも - so omo - i think (slang?)",
+    "front": "そう思う",
+    "back": "I think so (sou omou)",
+    "raw": "そう思う - I think so (sou omou)",
     "hint": "conversation"
   },
   {
@@ -554,9 +554,9 @@
   {
     "id": "card-70",
     "index": 70,
-    "front": "了も多い",
-    "back": "a large amount (ryou mo ooi)",
-    "raw": "了も多い - a large amount (ryou mo ooi)",
+    "front": "量も多い",
+    "back": "a large amount / there is also a lot (ryou mo ooi)",
+    "raw": "量も多い - a large amount / there is also a lot (ryou mo ooi)",
     "hint": "attributes"
   },
   {
@@ -715,16 +715,16 @@
     "id": "card-90",
     "index": 90,
     "front": "見たい",
-    "back": "looks like (mitai)",
-    "raw": "見たい - looks like (mitai)",
+    "back": "want to see (mitai)",
+    "raw": "見たい - want to see (mitai)",
     "hint": "attributes"
   },
   {
     "id": "card-91",
     "index": 91,
     "front": "もっともっと",
-    "back": "originally (mottomotto)",
-    "raw": "もっともっと - originally (mottomotto)",
+    "back": "much more / even more (motto motto)",
+    "raw": "もっともっと - much more / even more (motto motto)",
     "hint": "attributes"
   },
   {
@@ -762,9 +762,9 @@
   {
     "id": "card-96",
     "index": 96,
-    "front": "彼",
-    "back": "change (kaere)",
-    "raw": "彼 - change (kaere)",
+    "front": "変える / 変わる",
+    "back": "to change (kaeru / kawaru)",
+    "raw": "変える / 変わる - to change (kaeru / kawaru)",
     "hint": "attributes"
   },
   {
@@ -787,16 +787,16 @@
     "id": "card-99",
     "index": 99,
     "front": "共感(きょうかん)できない",
-    "back": "not relevant (kyoukan wo deki nai)",
-    "raw": "共感(きょうかん)できない - not relevant (kyoukan wo deki nai)",
+    "back": "cannot empathize / cannot relate (kyoukan dekinai)",
+    "raw": "共感(きょうかん)できない - cannot empathize / cannot relate (kyoukan dekinai)",
     "hint": "attributes"
   },
   {
     "id": "card-100",
     "index": 100,
     "front": "共感を持ってる",
-    "back": "relevant (kyoukan wo motteru)",
-    "raw": "共感を持ってる - relevant (kyoukan wo motteru)",
+    "back": "has empathy / feels resonance (kyoukan wo motteru)",
+    "raw": "共感を持ってる - has empathy / feels resonance (kyoukan wo motteru)",
     "hint": "attributes"
   },
   {
@@ -1538,9 +1538,9 @@
   {
     "id": "card-193",
     "index": 193,
-    "front": "目ぜまし",
-    "back": "alarm (アラムー）",
-    "raw": "目ぜまし - alarm (アラムー）",
+    "front": "目覚まし",
+    "back": "alarm clock (mezamashi); alarm is アラーム",
+    "raw": "目覚まし - alarm clock (mezamashi); alarm is アラーム",
     "hint": "objects + counters"
   },
   {
@@ -1898,9 +1898,9 @@
   {
     "id": "card-238",
     "index": 238,
-    "front": "今日年",
-    "back": "last year (kyounen)",
-    "raw": "今日年 - last year (kyounen)",
+    "front": "去年",
+    "back": "last year (kyonen)",
+    "raw": "去年 - last year (kyonen)",
     "hint": "date/time (日)"
   },
   {
@@ -2314,9 +2314,9 @@
   {
     "id": "card-290",
     "index": 290,
-    "front": "熱い",
-    "back": "hot (atsui)",
-    "raw": "熱い - hot (atsui)",
+    "front": "暑い",
+    "back": "hot weather (atsui)",
+    "raw": "暑い - hot weather (atsui)",
     "hint": "weather (天気)"
   },
   {
@@ -2698,9 +2698,9 @@
   {
     "id": "card-338",
     "index": 338,
-    "front": "郵便教訓",
-    "back": "post office (yuubinkyouku)",
-    "raw": "郵便教訓 - post office (yuubinkyouku)",
+    "front": "郵便局",
+    "back": "post office (yuubinkyoku)",
+    "raw": "郵便局 - post office (yuubinkyoku)",
     "hint": "places (所）"
   },
   {
@@ -2762,9 +2762,9 @@
   {
     "id": "card-346",
     "index": 346,
-    "front": "しまる",
-    "back": "closed (shimaru)",
-    "raw": "しまる - closed (shimaru)",
+    "front": "閉まる",
+    "back": "to close / be closed (shimaru)",
+    "raw": "閉まる - to close / be closed (shimaru)",
     "hint": "places (所）"
   },
   {
@@ -2986,9 +2986,9 @@
   {
     "id": "card-374",
     "index": 374,
-    "front": "エベントする",
-    "back": "have an event / party (ebento (suru))",
-    "raw": "エベントする - have an event / party (ebento (suru))",
+    "front": "イベントする",
+    "back": "to hold / do an event (ibento suru)",
+    "raw": "イベントする - to hold / do an event (ibento suru)",
     "hint": "music (音楽）"
   },
   {
@@ -3026,9 +3026,9 @@
   {
     "id": "card-379",
     "index": 379,
-    "front": "調子い",
-    "back": "good performance (performing well) (choushii)",
-    "raw": "調子い = good performance (performing well) (choushii)",
+    "front": "調子いい",
+    "back": "in good condition / performing well (choushi ii)",
+    "raw": "調子いい - in good condition / performing well (choushi ii)",
     "hint": "music (音楽）"
   },
   {
@@ -3130,9 +3130,9 @@
   {
     "id": "card-392",
     "index": 392,
-    "front": "つくてあげる",
-    "back": "to make for (me) (tsukute ageru)",
-    "raw": "つくてあげる - to make for (me) (tsukute ageru)",
+    "front": "作ってあげる",
+    "back": "to make for someone (tsukutte ageru)",
+    "raw": "作ってあげる - to make for someone (tsukutte ageru)",
     "hint": "activity"
   },
   {
@@ -3466,17 +3466,17 @@
   {
     "id": "card-434",
     "index": 434,
-    "front": "書い",
-    "back": "buy (kai)",
-    "raw": "書い - buy (kai)",
+    "front": "買い",
+    "back": "buying / buy stem (kai)",
+    "raw": "買い - buying / buy stem (kai)",
     "hint": "activity"
   },
   {
     "id": "card-435",
     "index": 435,
     "front": "によって",
-    "back": "original form of buy (ni yotte)",
-    "raw": "によって - original form of buy (ni yotte)",
+    "back": "by / depending on / according to (ni yotte)",
+    "raw": "によって - by / depending on / according to (ni yotte)",
     "hint": "activity"
   },
   {
@@ -3514,382 +3514,358 @@
   {
     "id": "card-440",
     "index": 440,
-    "front": "荷物住める",
-    "back": "nimotsu sumeru (i packed everything)",
-    "raw": "荷物住める - nimotsu sumeru (i packed everything)",
-    "hint": "activity"
-  },
-  {
-    "id": "card-441",
-    "index": 441,
     "front": "予約する yoyakusuru",
     "back": "to book/schedule",
     "raw": "予約する yoyakusuru = to book/schedule",
     "hint": "activity"
   },
   {
-    "id": "card-442",
-    "index": 442,
+    "id": "card-441",
+    "index": 441,
     "front": "間違える",
     "back": "make a mistake OR to confuse (machigaeru)",
     "raw": "間違える - make a mistake OR to confuse (machigaeru)",
     "hint": "activity"
   },
   {
-    "id": "card-443",
-    "index": 443,
+    "id": "card-442",
+    "index": 442,
     "front": "振り返る",
     "back": "to look back / retrospective (furikaeru)",
     "raw": "振り返る - to look back / retrospective (furikaeru)",
     "hint": "activity"
   },
   {
-    "id": "card-444",
-    "index": 444,
+    "id": "card-443",
+    "index": 443,
     "front": "訪れる - otozureru",
     "back": "visit",
     "raw": "訪れる - otozureru = visit",
     "hint": "activity"
   },
   {
-    "id": "card-445",
-    "index": 445,
+    "id": "card-444",
+    "index": 444,
     "front": "作る",
     "back": "made / make (tsukuru)",
     "raw": "作る - made / make (tsukuru)",
     "hint": "activity"
   },
   {
-    "id": "card-446",
-    "index": 446,
-    "front": "そうと",
-    "back": "try (souto)",
-    "raw": "そうと - try (souto)",
+    "id": "card-445",
+    "index": 445,
+    "front": "しようとする",
+    "back": "to try to do (shiyou to suru)",
+    "raw": "しようとする - to try to do (shiyou to suru)",
     "hint": "activity"
   },
   {
-    "id": "card-447",
-    "index": 447,
+    "id": "card-446",
+    "index": 446,
     "front": "ドロップ",
     "back": "doroppu - drop",
     "raw": "ドロップ - doroppu - drop",
     "hint": "activity"
   },
   {
-    "id": "card-448",
-    "index": 448,
+    "id": "card-447",
+    "index": 447,
     "front": "与える",
     "back": "to pass along / to spread（ataeru)",
     "raw": "与える - to pass along / to spread（ataeru)",
     "hint": "activity"
   },
   {
-    "id": "card-449",
-    "index": 449,
+    "id": "card-448",
+    "index": 448,
     "front": "やること",
     "back": "things to do (yarukoto)",
     "raw": "やること - things to do (yarukoto)",
     "hint": "activity"
   },
   {
-    "id": "card-450",
-    "index": 450,
+    "id": "card-449",
+    "index": 449,
     "front": "始まる",
     "back": "to begin (hajimaru)",
     "raw": "始まる - to begin (hajimaru)",
     "hint": "activity"
   },
   {
-    "id": "card-451",
-    "index": 451,
+    "id": "card-450",
+    "index": 450,
     "front": "手伝って",
     "back": "helping out (tetsudatte)",
     "raw": "手伝って - helping out (tetsudatte)",
     "hint": "activity"
   },
   {
-    "id": "card-452",
-    "index": 452,
+    "id": "card-451",
+    "index": 451,
     "front": "操作(そうさ)がかんたん",
     "back": "the way you play is easier",
     "raw": "操作(そうさ)がかんたん - the way you play is easier",
     "hint": "activity"
   },
   {
-    "id": "card-453",
-    "index": 453,
+    "id": "card-452",
+    "index": 452,
     "front": "映る",
-    "back": "to move (utsuru)",
-    "raw": "映る - to move (utsuru)",
+    "back": "to be reflected / projected / appear on screen (utsuru)",
+    "raw": "映る - to be reflected / projected / appear on screen (utsuru)",
     "hint": "activity"
   },
   {
-    "id": "card-454",
-    "index": 454,
+    "id": "card-453",
+    "index": 453,
     "front": "そうと頑張った",
     "back": "tried my best (souto ganbatta)",
     "raw": "そうと頑張った - tried my best (souto ganbatta)",
     "hint": "activity"
   },
   {
-    "id": "card-455",
-    "index": 455,
+    "id": "card-454",
+    "index": 454,
     "front": "決断",
     "back": "ketsudan - choice",
     "raw": "決断 - ketsudan - choice",
     "hint": "activity"
   },
   {
-    "id": "card-456",
-    "index": 456,
+    "id": "card-455",
+    "index": 455,
     "front": "自営業",
     "back": "self employed (じ-えい-ぎょう)",
     "raw": "自営業 - self employed (じ-えい-ぎょう)",
     "hint": "work (仕事）"
   },
   {
-    "id": "card-457",
-    "index": 457,
+    "id": "card-456",
+    "index": 456,
     "front": "雇用(こよう)した",
     "back": "hired",
     "raw": "雇用(こよう)した - hired",
     "hint": "work (仕事）"
   },
   {
-    "id": "card-458",
-    "index": 458,
+    "id": "card-457",
+    "index": 457,
     "front": "雇(やと)った",
     "back": "hired (casual)",
     "raw": "雇(やと)った - hired (casual)",
     "hint": "work (仕事）"
   },
   {
-    "id": "card-459",
-    "index": 459,
+    "id": "card-458",
+    "index": 458,
     "front": "この",
     "back": "this (kono)",
     "raw": "この - this (kono)",
     "hint": "grammar"
   },
   {
-    "id": "card-460",
-    "index": 460,
+    "id": "card-459",
+    "index": 459,
     "front": "あれ",
     "back": "that (are)",
     "raw": "あれ - that (are)",
     "hint": "grammar"
   },
   {
-    "id": "card-461",
-    "index": 461,
+    "id": "card-460",
+    "index": 460,
     "front": "その",
     "back": "that (sono)",
     "raw": "その - that (sono)",
     "hint": "grammar"
   },
   {
-    "id": "card-462",
-    "index": 462,
+    "id": "card-461",
+    "index": 461,
     "front": "あの",
     "back": "that over there (ano)",
     "raw": "あの - that over there (ano)",
     "hint": "grammar"
   },
   {
-    "id": "card-463",
-    "index": 463,
+    "id": "card-462",
+    "index": 462,
     "front": "どこ",
     "back": "where (doko)",
     "raw": "どこ - where (doko)",
     "hint": "grammar"
   },
   {
-    "id": "card-464",
-    "index": 464,
+    "id": "card-463",
+    "index": 463,
     "front": "いつ",
     "back": "when (itsu)",
     "raw": "いつ - when (itsu)",
     "hint": "grammar"
   },
   {
-    "id": "card-465",
-    "index": 465,
+    "id": "card-464",
+    "index": 464,
     "front": "どの",
     "back": "which (dono)",
     "raw": "どの - which (dono)",
     "hint": "grammar"
   },
   {
-    "id": "card-466",
-    "index": 466,
+    "id": "card-465",
+    "index": 465,
     "front": "ここ",
     "back": "this place (koko)",
     "raw": "ここ - this place (koko)",
     "hint": "grammar"
   },
   {
-    "id": "card-467",
-    "index": 467,
+    "id": "card-466",
+    "index": 466,
     "front": "彼ら",
     "back": "they (karera)",
     "raw": "彼ら - they (karera)",
     "hint": "grammar"
   },
   {
-    "id": "card-468",
-    "index": 468,
+    "id": "card-467",
+    "index": 467,
     "front": "しかし",
     "back": "however (shikashi)",
     "raw": "しかし - however (shikashi)",
     "hint": "grammar"
   },
   {
-    "id": "card-469",
-    "index": 469,
+    "id": "card-468",
+    "index": 468,
     "front": "いつも",
     "back": "always (itsumo)",
     "raw": "いつも - always (itsumo)",
     "hint": "grammar"
   },
   {
-    "id": "card-470",
-    "index": 470,
+    "id": "card-469",
+    "index": 469,
     "front": "と思い",
     "back": "i think (toomoi)",
     "raw": "と思い - i think (toomoi)",
     "hint": "grammar"
   },
   {
-    "id": "card-471",
-    "index": 471,
+    "id": "card-470",
+    "index": 470,
     "front": "たかった",
     "back": "i wanted (takatta)",
     "raw": "たかった - i wanted (takatta)",
     "hint": "grammar"
   },
   {
-    "id": "card-472",
-    "index": 472,
+    "id": "card-471",
+    "index": 471,
     "front": "後",
     "back": "later (ato de)",
     "raw": "後 - later (ato de)",
     "hint": "grammar"
   },
   {
-    "id": "card-473",
-    "index": 473,
+    "id": "card-472",
+    "index": 472,
     "front": "ずに",
     "back": "instead of (zu ni)",
     "raw": "ずに - instead of (zu ni)",
     "hint": "grammar"
   },
   {
-    "id": "card-474",
-    "index": 474,
+    "id": "card-473",
+    "index": 473,
     "front": "と is a postpositional article that can be used to mark when someone says something, used after quotation",
     "back": "Review the original phrase.",
     "raw": "と is a postpositional article that can be used to mark when someone says something, used after quotation",
     "hint": "grammar"
   },
   {
-    "id": "card-475",
-    "index": 475,
-    "front": "腹べった",
-    "back": "Review the original phrase.",
-    "raw": "腹べった",
-    "hint": "grammar"
-  },
-  {
-    "id": "card-476",
-    "index": 476,
-    "front": "荷物住めるだから、馬頭マシならなかって",
-    "back": "Review the original phrase.",
-    "raw": "荷物住めるだから、馬頭マシならなかって",
-    "hint": "grammar"
-  },
-  {
-    "id": "card-477",
-    "index": 477,
+    "id": "card-474",
+    "index": 474,
     "front": "聞こえなかった",
     "back": "i couldn’t hear you (kikoenakatta)",
     "raw": "聞こえなかった - i couldn’t hear you (kikoenakatta)",
     "hint": "grammar"
   },
   {
-    "id": "card-478",
-    "index": 478,
+    "id": "card-475",
+    "index": 475,
     "front": "kono kurabu ha erusuwhea to yobareru )this club is called elsewhere) OR toiu (という）",
     "back": "Review the original phrase.",
     "raw": "kono kurabu ha erusuwhea to yobareru )this club is called elsewhere) OR toiu (という）",
     "hint": "grammar"
   },
   {
-    "id": "card-479",
-    "index": 479,
+    "id": "card-476",
+    "index": 476,
     "front": "やる",
     "back": "to do (yatte)",
     "raw": "やる - to do (yatte)",
     "hint": "grammar"
   },
   {
-    "id": "card-480",
-    "index": 480,
+    "id": "card-477",
+    "index": 477,
     "front": "薬 kusuri",
     "back": "medicine",
     "raw": "薬 kusuri - medicine",
     "hint": "grammar"
   },
   {
-    "id": "card-481",
-    "index": 481,
+    "id": "card-478",
+    "index": 478,
     "front": "と for nouns ( noun と noun と noun_",
     "back": "Review the original phrase.",
     "raw": "と for nouns ( noun と noun と noun_",
     "hint": "grammar"
   },
   {
-    "id": "card-482",
-    "index": 482,
+    "id": "card-479",
+    "index": 479,
     "front": "て for adjective (adjective 「く」て adjective )",
     "back": "Review the original phrase.",
     "raw": "て for adjective (adjective 「く」て adjective )",
     "hint": "grammar"
   },
   {
-    "id": "card-483",
-    "index": 483,
+    "id": "card-480",
+    "index": 480,
     "front": "ことについて",
     "back": "about (koto ni tsuite)",
     "raw": "ことについて - about (koto ni tsuite)",
     "hint": "grammar"
   },
   {
-    "id": "card-484",
-    "index": 484,
+    "id": "card-481",
+    "index": 481,
     "front": "使うこと",
     "back": "the use of (tsukau koto)",
     "raw": "使うこと - the use of (tsukau koto)",
     "hint": "grammar"
   },
   {
-    "id": "card-485",
-    "index": 485,
+    "id": "card-482",
+    "index": 482,
     "front": "使い方",
     "back": "the way / how to (tsukai kata)",
     "raw": "使い方 - the way / how to (tsukai kata)",
     "hint": "grammar"
   },
   {
-    "id": "card-486",
-    "index": 486,
-    "front": "お悔やみあしがります",
-    "back": "i’m sorry for your loss",
-    "raw": "お悔やみあしがります - i’m sorry for your loss",
+    "id": "card-483",
+    "index": 483,
+    "front": "お悔やみ申し上げます",
+    "back": "I am sorry for your loss / my condolences",
+    "raw": "お悔やみ申し上げます - I am sorry for your loss / my condolences",
     "hint": "grammar"
   },
   {
-    "id": "card-487",
-    "index": 487,
+    "id": "card-484",
+    "index": 484,
     "front": "まだ読んでいる",
     "back": "i am still reading (mada yondeiru)",
     "raw": "まだ読んでいる - i am still reading (mada yondeiru)",
